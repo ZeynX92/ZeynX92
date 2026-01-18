@@ -17,7 +17,7 @@
 
 ### My statistic:
 
-[![ZeynX92's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZeynX92)](https://github.com/anuraghazra/github-readme-stats)
+[![ZeynX92's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZeynX92)](https://github.com/anuraghazra/github-readme-stats&theme=github_dark)
 ### The most common programming languages in my projects:
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZeynX92&layout=compact&theme=github_dark)
